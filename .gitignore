@@ -55,6 +55,5 @@ test_*.py
 paramiko_log.txt
 
 # Misc
-*.ico
 *.mp4
 codex_claude_brainstorm.txt
