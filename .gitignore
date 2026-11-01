@@ -28,8 +28,7 @@ env/
 
 # Build artifacts
 dist.zip
-*.exe
-*.zip
+dist/*.exe
 
 # Cache
 bgp_cache.json
